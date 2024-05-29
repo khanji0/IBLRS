@@ -21,4 +21,7 @@ We are also sharing the cleaned and compiled data for public use.
 The system receives input from users about the restaurant category they want to open in Iowa. It then identifies the top 3 successful restaurants in that category in the Midwest, determines their locations, and recommends a city in Iowa that is similar to the successful city in the Midwest. This indicates that a restaurant successful in a similar city in the Midwest has a good chance of success in the recommended Iowa city.
 
 ![Picture 1](images/rest.png)
+
+---
+
 ![Picture 2](images/demo.png)
